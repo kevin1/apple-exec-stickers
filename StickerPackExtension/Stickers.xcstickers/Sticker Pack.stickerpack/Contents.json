@@ -1,0 +1,68 @@
+{
+  "stickers" : [
+    {
+      "filename" : "tim-cook.sticker"
+    },
+    {
+      "filename" : "angela-ahrendts.sticker"
+    },
+    {
+      "filename" : "eddy-cue.sticker"
+    },
+    {
+      "filename" : "craig-federighi.sticker"
+    },
+    {
+      "filename" : "jony-ive.sticker"
+    },
+    {
+      "filename" : "luca-maestri.sticker"
+    },
+    {
+      "filename" : "dan-riccio.sticker"
+    },
+    {
+      "filename" : "phil-schiller.sticker"
+    },
+    {
+      "filename" : "bruce-sewell.sticker"
+    },
+    {
+      "filename" : "johny-srouji.sticker"
+    },
+    {
+      "filename" : "jeff-williams.sticker"
+    },
+    {
+      "filename" : "paul-deneve.sticker"
+    },
+    {
+      "filename" : "alan-dye.sticker"
+    },
+    {
+      "filename" : "steve-dowling.sticker"
+    },
+    {
+      "filename" : "richard-howarth.sticker"
+    },
+    {
+      "filename" : "lisa-jackson.sticker"
+    },
+    {
+      "filename" : "tor-myhren.sticker"
+    },
+    {
+      "filename" : "joel-podolny.sticker"
+    },
+    {
+      "filename" : "denise-young-smith.sticker"
+    }
+  ],
+  "info" : {
+    "version" : 1,
+    "author" : "xcode"
+  },
+  "properties" : {
+    "grid-size" : "regular"
+  }
+}
